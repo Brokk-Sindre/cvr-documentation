@@ -9,17 +9,8 @@ The Danish CVR Registry API requires HTTP Basic Authentication for all requests.
 
 ### How to Request Access
 
-1. **Email the CVR Support Team**:
-   ```
-   To: cvrselvbetjening@erst.dk
-   Subject: CVR API Access Request
-   ```
-
-2. **Include in your request**:
-   - Your organization name
-   - Your organization ID (leave out if working as private)
-   - Contact information
-   - Inform if you require access to beneficial owners
+Apply via the form on this webpage:
+https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data 
 
 3. **Wait for approval** - Processing may take up to 3 weeks.
 
